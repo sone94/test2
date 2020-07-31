@@ -1,0 +1,1 @@
+Zdravo, u ovom zadatku nisam stigao da završim korpu, a i paginacija ima neki bug u linkovima pa ne vodi na sledeću staranu. Logika za to postoji, samo ima bug koji nisam stigao da ispravim :)

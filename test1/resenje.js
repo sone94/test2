@@ -1,0 +1,4 @@
+function levaRotacija(niz, brojRotacija) 
+{
+
+}
